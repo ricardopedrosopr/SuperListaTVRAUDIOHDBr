@@ -9,7 +9,7 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 17/07/2019
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 17/07/2019  20:10
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RicardoPedrosoPr
@@ -27,7 +27,7 @@ http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b54
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8?EDSONSOUSALIST
 #EXTINF:-1 tvg-id="CJC" tvg-name="CJC" tvg-logo="https://www.canalcjc.com.br/images/logo.png" group-title="Religioso",CJC
 https://www.youtube.com/watch?v=rSLQPLQGUlw
-#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Temp" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/400px-Logo_2015_-_TV_Novo_Tempo.png" group-title="Religioso",Tv Novo Tempo SP
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/400px-Logo_2015_-_TV_Novo_Tempo.png" group-title="Religioso",Tv Novo Tempo SP
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a5/Logotipo_da_RIT_%282016%29.png/200px-Logotipo_da_RIT_%282016%29.png" group-title="Religioso",RIT
 https://www.youtube.com/watch?v=rSLQPLQGUlcz

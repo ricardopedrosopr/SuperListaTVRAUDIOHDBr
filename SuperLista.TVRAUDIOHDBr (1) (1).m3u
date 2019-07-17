@@ -31,6 +31,10 @@ https://www.youtube.com/watch?v=rSLQPLQGUlw
 http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a5/Logotipo_da_RIT_%282016%29.png/200px-Logotipo_da_RIT_%282016%29.png" group-title="Religioso",RIT
 https://www.youtube.com/watch?v=rSLQPLQGUlcz
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="Rede Gospel" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/235px-LGT_Rede_Gospel.png" group-title="Religioso",Rede Gospel
+http://media.igospel.com.br:1935/live/redegospel/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="Tv Aparecida" tvg-name="Tv Aparecida" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="Religioso",Tv Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://babytv.com.br/images/siteimages/LogoBabyTV-2018-wCloud.png" group-title="Infantil",Baby Tv
 https://www.youtube.com/watch?v=rSLQPLQGUlx
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/150px-Boomerang_tv_logo.png" group-title="Infantil",Boomerang
